@@ -1,0 +1,16 @@
+# 01 / Tic Tac
+
+Écrivez une fonction qui itère sur les nombres compris entre 1 et 100 inclus et effectue pour chacun le traitement suivant :
+- si le nombre est divisible par 3, écrit le nombre suivi de `Tic` sur la sortie standard
+- si le nombre est divisible par 5, écrit le nombre suivi de `Tac` sur la sortie standard
+- si le nombre est divisible par 3 et par 5, écrit le nombre suivi de `Tictac` sur la sortie standard
+- sinon, écrit simplement le nombre sur la sortie standard
+
+Exemple (pour les 5 premiers nombres) :
+```
+1
+2
+3 Tic
+4
+5 Tac
+```
